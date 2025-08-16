@@ -1,0 +1,2 @@
+[33me294984[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Security fix: Remove hardcoded API keys and update .gitignore
+[33m43c7cc2[m Initial commit: MangoDesk Summarizer - Next.js app with Groq AI and Resend email integration
