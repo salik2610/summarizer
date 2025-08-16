@@ -1,6 +1,6 @@
 import Groq from "groq-sdk";
 
-const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
+const groq = new Groq({ apiKey: "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" });
 
 export default async function handler(req, res) {
   if (req.method !== "POST") return res.status(405).end();
