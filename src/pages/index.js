@@ -407,7 +407,7 @@ export default function Home() {
                 </div>
                 <h3 className="text-xl font-bold text-gray-800 mb-4">Lightning Fast</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  Generate comprehensive summaries in seconds, not minutes. Get your meeting notes ready while the meeting is still fresh in everyone's mind.
+                  Generate comprehensive summaries in seconds, not minutes. Get your meeting notes ready while the meeting is still fresh in everyone&apos;s mind.
                 </p>
               </div>
               
